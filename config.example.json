@@ -1,0 +1,7 @@
+{
+  "bot_token": "REPLACE_WITH_BOTFATHER_TOKEN",
+  "operator_ids": [123456789, 987654321],
+  "script": "./deploy.sh",
+  "shell": ["/bin/bash"],
+  "working_directory": "."
+}
